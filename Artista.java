@@ -15,6 +15,7 @@ public class Artista {
 
     public String getNombreArtista() {
         return nombreArtista;
+	//comentario comflictivo
 	//Prueba fetch
 	//Prueba fetch 2
 	//Jose Maria De Gomar Aparicio
