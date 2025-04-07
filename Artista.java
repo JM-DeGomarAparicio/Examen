@@ -17,6 +17,7 @@ public class Artista {
         return nombreArtista;
 	//Prueba fetch
 	//Prueba fetch 2
+	//Jose Maria De Gomar Aparicio
     }
     
 }
